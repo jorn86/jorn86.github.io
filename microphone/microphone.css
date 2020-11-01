@@ -1,0 +1,9 @@
+div.error {
+    color: red;
+}
+div.input {
+    color: green;
+}
+div.noinput {
+    color: orange;
+}
